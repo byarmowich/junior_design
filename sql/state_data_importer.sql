@@ -1,4 +1,4 @@
---description: update mlx line item tracking
+--description: insert state data
 
 CREATE TEMP TABLE tt_state_importer
 (
